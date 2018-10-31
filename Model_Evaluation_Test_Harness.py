@@ -1,3 +1,4 @@
+# https://machinelearningmastery.com/how-to-develop-deep-learning-models-for-univariate-time-series-forecasting/
 # persistence
 from math import sqrt
 from numpy import mean
