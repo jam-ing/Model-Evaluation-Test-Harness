@@ -1,3 +1,4 @@
+# https://machinelearningmastery.com/how-to-develop-deep-learning-models-for-univariate-time-series-forecasting/	
 # evaluate mlp
 from math import sqrt
 from numpy import array
