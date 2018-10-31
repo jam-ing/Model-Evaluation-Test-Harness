@@ -3,6 +3,7 @@ Model Evaluation Test Harness - for developing deep learning models for univaria
 Source article: Jason Brownlee, Ph.D.
 Making Developers Awesome at Machine Learning
 http://machinelearningmastery.com/
+Accessed on Oct 31, 2018
 
 This source variant is using data from the US500 (S&P) Index, and this data will be updated periodically.
 
