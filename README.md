@@ -4,4 +4,7 @@ Source article: Jason Brownlee, Ph.D.
 Making Developers Awesome at Machine Learning
 http://machinelearningmastery.com/
 
-This code variant is using data from the US500 (S&P) Index, and this data will be updated periodically.
+This source variant is using data from the US500 (S&P) Index, and this data will be updated periodically.
+
+Multilayer Perceptron Model
+  The first network that we will evaluate is a multilayer Perceptron, or MLP for short.
