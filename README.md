@@ -1,4 +1,4 @@
-# METH
+# Model Evaluation Test Harness 
 Model Evaluation Test Harness - for developing and evaluating deep learning models for univariate time series forecasting.
 Source article: Jason Brownlee, Ph.D.
 Making Developers Awesome at Machine Learning
@@ -11,7 +11,7 @@ Multilayer Perceptron Model:
 The first network that we will evaluate is a multilayer Perceptron, or MLP for short.
 
 Convolutional Neural Network Model:
-Convolutional Neural Networks, or CNNs, are a type of neural network developed for two-dimensional image data, although they can     be used for one-dimensional data such as sequences of text and time series.
+Convolutional Neural Networks, or CNNs, are a type of neural network developed for two-dimensional image data, although they can be used for one-dimensional data such as sequences of text and time series.
 
 Recurrent Neural Network Models:
 Recurrent neural networks, or RNNs, are those types of neural networks that use an output of the network from a prior step as an input in attempt to automatically learn across sequence data.
